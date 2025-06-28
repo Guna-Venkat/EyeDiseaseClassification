@@ -1,5 +1,12 @@
 # 🧠 Eye Disease Classification Using Deep Learning
 
+![Accuracy](https://img.shields.io/badge/Accuracy-92%25-brightgreen)
+![Model](https://img.shields.io/badge/Model-ResNet50%2C%20VGG16-blue)
+![Status](https://img.shields.io/badge/Status-Research%20Project-yellow)
+![License](https://img.shields.io/badge/License-TBD-lightgrey)
+![Kaggle](https://img.shields.io/badge/Notebook-Kaggle-blue?logo=kaggle)
+![Dataset](https://img.shields.io/badge/Dataset-Kaggle-orange?logo=kaggle)
+
 This project focuses on classifying common eye diseases from retinal images using Convolutional Neural Networks (CNNs) with Transfer Learning. It is backed by a peer-reviewed publication and trained on publicly available datasets. The goal is to assist early diagnosis and decision-making for ophthalmologists using automated image analysis.
 
 ---
