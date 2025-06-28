@@ -18,7 +18,6 @@ This project focuses on classifying common eye diseases from retinal images usin
 🗓️ Volume 51, Issue 11, No. 1, November 2022  
 📚 ISSN: 0970-2555  
 
-📄 [Download Full Research Paper (PDF)](./ResearchPaper.pdf)  
 📄 [![PDF](https://img.shields.io/badge/View--PDF-blue)](./ResearchPaper.pdf) 
 
 ---
